@@ -28,6 +28,9 @@ body {
 	width: 400px;
 	border-bottom: 4px solid white;
 	display:inline-flex;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-top: 12px;
 
 
 
@@ -58,8 +61,10 @@ body {
 }
 
 
-#bolvenster {
+#Bolvenster {
 	display: inline-block;
+	margin-left: 175px;
+
 
 
 
