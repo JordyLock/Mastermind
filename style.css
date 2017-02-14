@@ -16,9 +16,7 @@ body {
 
 #MM {
 	margin: auto;
-	margin-top:  4px;
 	width: 400px;
-	height: 1000px;
 	border: 6px solid white;
 	border-radius: 9px;
 
@@ -26,13 +24,10 @@ body {
 }
 
 #Window {
-	margin-top: 12px;
 	margin: auto;
-	width: 350px;
-	height: 45px;
-	padding-right: 50px;
+	width: 400px;
 	border-bottom: 4px solid white;
-	display: inline-block;
+	display:inline-flex;
 
 
 
@@ -42,7 +37,7 @@ body {
 #ball {
 
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 5px;
 	border: 2px solid white;
 	padding: 10px;
 	border-radius: 12px;
@@ -55,6 +50,16 @@ body {
 	border: 2px solid white;
 	padding: 6px;
 	border-radius: 12px;
+	margin-left: 5px;
+	
+
+
+
+}
+
+
+#bolvenster {
+	display: inline-block;
 
 
 
